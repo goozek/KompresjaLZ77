@@ -1,0 +1,10 @@
+c:\Users\kamgu\source\repos\LZ77_gui\LZ77_gui\bin\Debug\LZ77_gui.exe.config
+c:\Users\kamgu\source\repos\LZ77_gui\LZ77_gui\bin\Debug\LZ77_gui.exe
+c:\Users\kamgu\source\repos\LZ77_gui\LZ77_gui\bin\Debug\LZ77_gui.pdb
+c:\Users\kamgu\source\repos\LZ77_gui\LZ77_gui\obj\Debug\LZ77_gui.csprojAssemblyReference.cache
+c:\Users\kamgu\source\repos\LZ77_gui\LZ77_gui\obj\Debug\LZ77_gui.Properties.Resources.resources
+c:\Users\kamgu\source\repos\LZ77_gui\LZ77_gui\obj\Debug\LZ77_gui.csproj.GenerateResource.cache
+c:\Users\kamgu\source\repos\LZ77_gui\LZ77_gui\obj\Debug\LZ77_gui.csproj.CoreCompileInputs.cache
+c:\Users\kamgu\source\repos\LZ77_gui\LZ77_gui\obj\Debug\LZ77_gui.exe
+c:\Users\kamgu\source\repos\LZ77_gui\LZ77_gui\obj\Debug\LZ77_gui.pdb
+c:\Users\kamgu\source\repos\LZ77_gui\LZ77_gui\obj\Debug\LZ77_gui.FrmMain.resources
